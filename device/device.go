@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/mysteriumnetwork/wireguard-go/ratelimiter"
-	"github.com/mysteriumnetwork/wireguard-go/tun"
+	"github.com/dvnetwork/wireguard-go/ratelimiter"
+	"github.com/dvnetwork/wireguard-go/tun"
 )
 
 const (

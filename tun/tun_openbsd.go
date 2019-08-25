@@ -14,7 +14,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/mysteriumnetwork/wireguard-go/rwcancel"
+	"github.com/dvnetwork/wireguard-go/rwcancel"
 	"golang.org/x/net/ipv6"
 	"golang.org/x/sys/unix"
 )

@@ -13,8 +13,8 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/mysteriumnetwork/wireguard-go/device"
-	"github.com/mysteriumnetwork/wireguard-go/tun"
+	"github.com/dvnetwork/wireguard-go/device"
+	"github.com/dvnetwork/wireguard-go/tun"
 )
 
 const (
